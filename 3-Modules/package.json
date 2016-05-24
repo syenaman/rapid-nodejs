@@ -1,0 +1,24 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "Sample modules package to help myself explore package. this is my first package.json",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syenaman/rapid-nodejs.git"
+  },
+  "author": "Sridhar Yenamandra <ysr.sridhar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syenaman/rapid-nodejs/issues"
+  },
+  "homepage": "https://github.com/syenaman/rapid-nodejs#readme"
+}

@@ -36,3 +36,6 @@ for (var i = 0; i<10; i++) {
 });
 };
 console.log("-----");
+console.log("Sridhar: Make sure you modify this code to remove the waitTime and randomness to see that things are executed in the same order ie., 0,1,2,3,4,5,6,7,8,9 rather than random. This means that Callbacks are also stored in taskQueue in the same order they received");
+
+console.log("Sridhar: Another experiment you should do is to try it without callback. Will the execution become synchronous ?? chekc it out");
